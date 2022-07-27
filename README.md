@@ -16,3 +16,6 @@ Programın launcherde oyun açılmadan önce çalıştırılması gerekmektedir;
 
 3) Bu dosyanın kontrolu tamamlandığı için artık istediğimiz gibi değiştirebiliriz, bu sırada editlenmiş dosya indirilir.
 4) Ve oyun açıldığında lib dosyası değişmiştir
+
+Dipnot:
+![image](https://user-images.githubusercontent.com/82592303/181341594-be36ee55-ce46-4139-ad41-98259424396a.png)
